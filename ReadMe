@@ -3,3 +3,11 @@ making a tool to scan for open port to prevent Hacker attack by closing the open
 
 This is used to be make on persons system, their your self or others, don't do naught thing with code okay
 
+
+Formal declaimer 
+Port scanning someone's network without their permission is a crime. Only scan your own network or one that you are permitted to. Alternatively, you might use scanme.nmap.org to experiment around. I do not take any responsibility for the abuse of the information.
+
+Mode 1: Scans well-known ports (1 to 1023).
+Mode 2: Scans up to 49151, covering well-known and registered ports.
+Mode 3: Scans a predefined list of common ports (like 80, 443, 22).
+Mode 4: Allows custom input of ports for scanning.
